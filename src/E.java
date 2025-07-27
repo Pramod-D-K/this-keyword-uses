@@ -10,6 +10,10 @@ public class E {
         System.out.println(this);
     }
 
+    E(int x){
+        this();
+    }
+
     void fun(E object){
         System.out.println("Object passed as parameter");
     }
