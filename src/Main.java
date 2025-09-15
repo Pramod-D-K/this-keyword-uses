@@ -13,11 +13,11 @@
 public class Main {
 
     public static void main(String[] args) {
-        A p = new A();
-        B b = new B();
-        D d = new D();
-        D d2 = d.fun();
-        System.out.println(d2.x + " And " +d2.name );
-        E e = new E();
+//        A p = new A();
+     //   B b = new B();
+//        D d = new D();
+//        D d2 = d.fun();
+//        System.out.println(d2.x + " And " +d2.name );
+       E e = new E();
     }
 }

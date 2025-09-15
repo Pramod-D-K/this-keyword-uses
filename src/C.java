@@ -10,6 +10,7 @@ public class C {
 
     }
     C(){
+        this(10);
         this.print();
 
     }
